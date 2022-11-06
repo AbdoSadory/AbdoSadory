@@ -15,7 +15,7 @@
 
 - 🤝 I can help with **frontend development**
 
-- 💬 Ask me about **React, JS, Python, Computer Science, plus my old professions (Petroleum Geology and Water Treatment)**
+- 💬 Ask me about **React, JS, Python, Computer Science, plus my former professions (Petroleum Geology and Water Treatment)**
 
 - 📫 How to reach me **you can find me on my linkedIn Profile**
 
