@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdElrhman Sayed EL-Sadory 👷</h1>
-<img align="center" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt"developer" >
+<img align="right" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt"developer" >
 <h3 align="center">A passionate computer scientist and especially front-end developement, I've graduated from faculty of science as Petroleum Geologist and then I worked as Water Commissioning Engineer but I always got passion toward Computer and tech fields so I've studied post-graduated computer science diploma (3.5 GPA, Very Good) then I started to learn several tracks in AI, data science and frontend development 💻💻</h3>
 
 <p align="left">
