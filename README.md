@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-<a href="https://twitter.com/AbdoSadory" target="blank">
+<a href="https://twitter.com/AbdoSadory" target="_blank">
 <img src="https://img.shields.io/twitter/follow/AbdoSadory?logo=twitter&style=for-the-badge" alt="AbdoSadory" />
 </a>
 </p>
