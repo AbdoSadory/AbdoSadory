@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm AbdElrhman Sayed EL-Sadory 👷</h1>
+<h1 align="center">Hi 👋, I'm AbdElrhman Sayed EL-Sadory</h1>
 <h2 align="center">Front-end Developer (React,Redux,NextJS) 💻❤✌</h2>
 <br>
 <img align="right" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt"developer" >
-<h3 align="center">A passionate computer scientist and especially front-end developement, I've graduated from faculty of science as Petroleum Geologist and then I worked as Water Commissioning Engineer but I always got passion toward Computer and tech fields so I've studied post-graduated computer science diploma (3.5 GPA, Very Good) then I started to learn several tracks in AI, data science and frontend development 💻💻</h3>
+<h3 align="center">A passionate computer scientist and especially front-end developement (React,Redux,NextJS), and I've little knowledge about AI and data science 💻💻</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=abdosadory&label=Profile%20views&color=0e75b6&style=flat" alt="abdosadory" /> 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React, JS, Python, Computer Science, plus my former professions (Petroleum Geology and Water Treatment)**
 
-- 📫 How to reach me **you can find me on my linkedIn Profile**
+- 📫 How to reach me **you can find me on my linkedIn Profile: Abdelrhman EL-Sadory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
