@@ -18,7 +18,7 @@
 
 - 🤝 I can help with **frontend development**
 
-- 💬 Ask me about **React, JS, Python, Computer Science, plus my former professions (Petroleum Geology and Water Treatment)**
+- 💬 Ask me for help about **React, JS, Python, Computer Science, plus my former professions (Petroleum Geology and Water Treatment)**
 
 - 📫 How to reach me **you can find me on my linkedIn Profile: Abdelrhman EL-Sadory**
 
