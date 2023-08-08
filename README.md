@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm AbdElrhman Sayed EL-Sadory</h1>
-<h2 align="center">Front-end Developer (React,Redux,NextJS) 💻❤✌</h2>
+<h2 align="center">Software Developer | MERN Stack (React,Redux,NodeJS,Express,Mongodb) 💻❤✌</h2>
 <br>
 <img align="right" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt"developer" >
-<h3 align="center">A passionate computer scientist and especially front-end developement (React,Redux,NextJS), and I've little knowledge about AI and data science 💻💻</h3>
+<h3 align="center">A passionate computer scientist and especially MERN Stack developement (React,Redux,NodeJS,Express,Mongodb), and I've little knowledge about AI and data science 💻💻</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=abdosadory&label=Profile%20views&color=0e75b6&style=flat" alt="abdosadory" /> 
@@ -14,11 +14,10 @@
 </a>
 </p>
 
-- 🌱 I’m currently learning **NextJS Framework**
 
-- 🤝 I can help with **frontend development**
+- 🤝 I can help with **web development**
 
-- 💬 Ask me for help about **React, JS, Python, Computer Science**, plus i can be your busniess domain expert if you're working on AI projects in my former professions **(Petroleum Geology and Water Treatment)**
+- 💬 Ask me for help about **React, NodeJS, Python, Computer Science**, plus i can be your busniess domain expert if you're working on AI projects in my former professions **(Petroleum Geology and Water Treatment)**
 
 - 📫 How to reach me **you can find me on my linkedIn Profile: Abdelrhman EL-Sadory**
 
