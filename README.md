@@ -27,7 +27,7 @@
 <a href="https://twitter.com/AbdoSadory" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbdoSadory" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/abdelrhman-el-sadory-725b55101/" target="_blank">
+<a href="https://www.linkedin.com/in/abdelrhmanelsadory/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin name" height="30" width="40" />
 </a>
 </p>
