@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdElrhman EL-Sadory</h1>
-<h2 align="center">Software Backend Developer (NodeJS,ExpressJS,NoSQL(Mongodb), SQL) 💻❤✌</h2>
+<h2 align="center">Software Backend Developer (NodeJS,ExpressJS,NoSQL(Mongodb), MYSQL) 💻❤✌</h2>
 <br>
 <img align="right" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt"developer" >
 <h3 align="center">A passionate computer scientist and especially In Backend development stuff, and I've good knowledge about frontEnd (ReactJS) in addition to state managment and a little bit knowledge about AI and data science 💻💻</h3>
